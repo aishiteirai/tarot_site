@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarot Online</title>
+    <p><a href="/all_cards" style="color: #e67e22;">Ver todas as cartas</a></p>
     <style>
         body { font-family: sans-serif; background-color: #2c3e50; color: #ecf0f1; text-align: center; margin-top: 50px; }
         h1 { color: #e67e22; }
@@ -12,31 +13,27 @@
         input { width: 60px; }
         button { background-color: #e67e22; color: white; cursor: pointer; border: none; }
         button:hover { background-color: #d35400; }
-        #resultado { margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+        #resultado { margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px; }
         .carta-container {
             background-color: #ecf0f1;
             color: #2c3e50;
             padding: 10px;
             border-radius: 6px;
-            width: 180px; /* Largura fixa para o container da carta */
+            width: 200px; /* Aumentei um pouco a largura */
             text-align: center;
             box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-            transition: transform 0.3s ease-in-out; /* Suaviza a transição de rotação */
-            display: flex; /* Para alinhar o conteúdo */
+            display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            align-items: center;
-            overflow: hidden; /* Garante que a imagem não vaze ao girar */
-            position: relative; /* Para a rotação */
+            justify-content: flex-start; /* Alinha itens ao topo */
         }
         .carta-imagem {
-            width: 100%; /* A imagem preenche o container */
+            width: 100%;
+            max-width: 150px;
             height: auto;
-            max-width: 150px; /* Limita a largura da imagem dentro do container */
-            max-height: 250px; /* Ajuste conforme a proporção das suas imagens */
-            object-fit: contain; /* Garante que a imagem se encaixe sem cortar */
-            transform-origin: center center; /* Ponto de rotação no centro */
-            transition: transform 0.5s ease-in-out; /* Transição para a rotação da imagem */
+            margin: 0 auto; /* Centraliza a imagem */
+            object-fit: contain;
+            transform-origin: center center;
+            transition: transform 0.5s ease-in-out;
         }
         .carta-container.invertida .carta-imagem {
             transform: rotate(180deg);
@@ -45,7 +42,16 @@
             margin-top: 10px;
             font-weight: bold;
             font-size: 0.9em;
-            word-wrap: break-word; /* Quebra palavras longas */
+            word-wrap: break-word;
+        }
+        /* NOVO: Estilo para o parágrafo do significado */
+        .carta-significado {
+            margin-top: 12px;
+            font-size: 0.8em;
+            color: #34495e;
+            text-align: justify;
+            border-top: 1px solid #bdc3c7; /* Adiciona uma linha separadora */
+            padding-top: 8px;
         }
     </style>
 </head>
@@ -73,40 +79,43 @@
             try {
                 const response = await fetch('/tirar-cartas', {
                     method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
+                    headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ quantidade: numCartas })
                 });
 
                 if (!response.ok) {
                     const errorData = await response.json();
-                    throw new Error(errorData.erro || 'Erro desconhecido ao obter as cartas do baralho.');
+                    throw new Error(errorData.erro || 'Erro desconhecido.');
                 }
 
                 const cartas = await response.json();
-
                 resultadoDiv.innerHTML = '';
 
                 cartas.forEach(carta => {
                     const cartaContainerDiv = document.createElement('div');
                     cartaContainerDiv.classList.add('carta-container');
-
                     if (carta.invertida) {
                         cartaContainerDiv.classList.add('invertida');
                     }
 
                     const imagemElement = document.createElement('img');
-                    imagemElement.src = carta.imagem; // O URL da imagem já vem do Flask
+                    imagemElement.src = carta.imagem;
                     imagemElement.alt = carta.nome;
                     imagemElement.classList.add('carta-imagem');
 
                     const nomeElement = document.createElement('p');
                     nomeElement.classList.add('carta-nome');
-                    nomeElement.textContent = carta.nome; // Exibe o nome da carta
+                    nomeElement.textContent = carta.nome;
+
+                    // --- NOVO: Cria e adiciona o elemento do significado ---
+                    const significadoElement = document.createElement('p');
+                    significadoElement.classList.add('carta-significado');
+                    significadoElement.textContent = carta.significado; // Pega o significado da resposta da API
+                    // --------------------------------------------------------
 
                     cartaContainerDiv.appendChild(imagemElement);
-                    cartaContainerDiv.appendChild(nomeElement); // Adiciona o nome abaixo da imagem
+                    cartaContainerDiv.appendChild(nomeElement);
+                    cartaContainerDiv.appendChild(significadoElement); // Adiciona o significado ao card
 
                     resultadoDiv.appendChild(cartaContainerDiv);
                 });

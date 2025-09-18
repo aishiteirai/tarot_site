@@ -1,0 +1,394 @@
+{
+  "cartas": [
+    {
+      "name": "aceofcups",
+      "description_straight": "Novos começos no amor, compaixão, criatividade e espiritualidade. Representa o início de um novo relacionamento, um novo sentimento ou uma nova onda de inspiração criativa. É um convite para abrir o coração e expressar as emoções.",
+      "description_upsd": "Emoções bloqueadas, criatividade reprimida ou amor não correspondido. Pode indicar a necessidade de lidar com questões emocionais não resolvidas ou um período de instabilidade emocional."
+    },
+    {
+      "name": "aceofpentacles",
+      "description_straight": "Oportunidade, prosperidade, manifestação e novos começos no mundo material. Pode representar um novo emprego, um novo investimento financeiro ou a chance de transformar uma ideia em algo concreto e tangível.",
+      "description_upsd": "Oportunidade perdida, falta de planejamento ou maus investimentos. Sugere que uma oportunidade pode ter sido perdida por falta de visão ou que é preciso ter mais cuidado com as finanças."
+    },
+    {
+      "name": "aceofswords",
+      "description_straight": "Clareza mental, novas ideias, verdade e poder intelectual. Representa um momento de grande clareza e discernimento, o surgimento de uma nova ideia brilhante ou a necessidade de usar a lógica e a razão para superar um desafio.",
+      "description_upsd": "Confusão mental, falta de clareza ou ideias mal concebidas. Pode indicar um período de incerteza, comunicação falha ou a necessidade de repensar um plano."
+    },
+    {
+      "name": "aceofwands",
+      "description_straight": "Inspiração, paixão, criatividade e novos começos. É a faísca da criação, o início de um novo projeto apaixonante, uma nova aventura ou um aumento de energia e entusiasmo pela vida.",
+      "description_upsd": "Atrasos, falta de energia ou paixão reprimida. Pode indicar frustração com a falta de progresso em um projeto ou a dificuldade em encontrar motivação."
+    },
+    {
+      "name": "death",
+      "description_straight": "Fim de um ciclo, transformação, mudança e transição. Não costuma indicar morte física, mas sim o fim de algo para que algo novo possa nascer. Representa uma mudança profunda e inevitável.",
+      "description_upsd": "Resistência à mudança, estagnação e medo do novo. Indica a dificuldade em deixar o passado para trás e abraçar as transformações necessárias para o crescimento."
+    },
+    {
+      "name": "eightofcups",
+      "description_straight": "Abandono, busca por algo mais profundo, desapego e jornada espiritual. Representa a decisão de deixar para trás uma situação insatisfatória em busca de um maior propósito ou satisfação emocional.",
+      "description_upsd": "Medo de seguir em frente, estagnação ou conformismo. Pode indicar que você está se apegando a uma situação que não lhe serve mais por medo do desconhecido."
+    },
+    {
+      "name": "eightofpentacles",
+      "description_straight": "Dedicação, aprendizado, habilidade e maestria. Representa o trabalho duro e o esforço concentrado para aprimorar uma habilidade ou ofício. É a carta do aprendiz dedicado que busca a perfeição.",
+      "description_upsd": "Falta de foco, perfeccionismo excessivo ou trabalho maçante. Pode indicar a busca pela perfeição de forma prejudicial ou a perda de interesse e dedicação em seu trabalho."
+    },
+    {
+      "name": "eightofswords",
+      "description_straight": "Sentir-se preso, restrições autoimpostas, vitimização e impotência. Sugere que as limitações são mais mentais do que reais e que você tem o poder de se libertar mudando sua perspectiva.",
+      "description_upsd": "Libertação, superação de crenças limitantes e encontrar uma saída. Indica o momento de clareza em que você percebe que as barreiras eram autoimpostas e que a liberdade é possível."
+    },
+    {
+      "name": "eightofwands",
+      "description_straight": "Velocidade, movimento rápido, ação e notícias importantes. Representa um período de progresso rápido, eventos que se desenrolam rapidamente e a chegada de notícias ou comunicação importante.",
+      "description_upsd": "Atrasos, frustração e perda de ritmo. Sugere que os planos estão sendo adiados ou que o progresso está mais lento do que o esperado, causando impaciência."
+    },
+    {
+      "name": "fiveofcups",
+      "description_straight": "Perda, arrependimento, luto e foco no negativo. A carta mostra alguém focado em três taças caídas, ignorando as duas que ainda estão de pé. Sugere a necessidade de superar o passado e ver o que ainda resta.",
+      "description_upsd": "Aceitação, perdão e superação do luto. Indica a capacidade de superar perdas passadas, perdoar a si mesmo e aos outros, e seguir em frente com uma nova perspectiva."
+    },
+    {
+      "name": "fiveofpentacles",
+      "description_straight": "Dificuldades financeiras, pobreza, isolamento e insegurança. Representa um período de necessidade material e sentimento de abandono, mas também sugere que a ajuda pode estar próxima se for procurada.",
+      "description_upsd": "Recuperação financeira, fim das dificuldades e aceitação de ajuda. Indica uma melhora na situação material, a superação de um período difícil e a redescoberta da esperança."
+    },
+    {
+      "name": "fiveofswords",
+      "description_straight": "Conflito, derrota, vitória a qualquer custo e desonra. Representa uma situação onde a vitória foi alcançada de forma injusta, deixando um rastro de ressentimento e perdas para todos os envolvidos.",
+      "description_upsd": "Reconciliação, fim do conflito e busca por paz. Sugere a possibilidade de superar as desavenças, pedir desculpas e encontrar uma solução pacífica para um conflito."
+    },
+    {
+      "name": "fiveofwands",
+      "description_straight": "Competição, conflito, desacordo e tensões. Representa um ambiente de competição saudável ou um conflito de ideias que pode levar ao crescimento, mas que exige gerenciamento para não se tornar destrutivo.",
+      "description_upsd": "Fim do conflito, acordo e harmonia. Indica a resolução de disputas, a colaboração e a união de esforços para alcançar um objetivo comum."
+    },
+    {
+      "name": "fourofcups",
+      "description_straight": "Apatia, descontentamento, tédio e oportunidades perdidas. Sugere um estado de insatisfação emocional e a tendência a ignorar novas oportunidades que estão sendo oferecidas.",
+      "description_upsd": "Clareza, superação da apatia e novas oportunidades. Indica o fim de um período de estagnação emocional e a disposição para aceitar as novas chances que a vida oferece."
+    },
+    {
+      "name": "fourofpentacles",
+      "description_straight": "Apego ao material, controle, segurança e possessividade. Representa a necessidade de segurança material, mas também o risco de se tornar avarento e resistente a mudanças por medo de perder o que tem.",
+      "description_upsd": "Generosidade, desapego e flexibilidade. Sugere a capacidade de abrir mão do controle excessivo sobre as finanças e os bens materiais, permitindo mais fluidez e generosidade."
+    },
+    {
+      "name": "fourofswords",
+      "description_straight": "Descanso, recuperação, meditação e trégua. Representa um período necessário de pausa e introspecção para se recuperar de um período de estresse ou conflito antes de seguir em frente.",
+      "description_upsd": "Retorno à atividade, fim do descanso e exaustão. Pode indicar um retorno precipitado à ação sem a devida recuperação, ou o fim de um período de descanso, sentindo-se revigorado."
+    },
+    {
+      "name": "fourofwands",
+      "description_straight": "Celebração, harmonia, lar, estabilidade e comunidade. Representa um momento de alegria, celebração de conquistas e a segurança de um lar feliz e estável. É um marco de felicidade.",
+      "description_upsd": "Falta de harmonia, instabilidade no lar ou celebrações adiadas. Pode indicar tensões na vida familiar ou a sensação de que um marco importante ainda não foi alcançado."
+    },
+    {
+      "name": "judgement",
+      "description_straight": "Renascimento, chamado interior, perdão e despertar espiritual. Representa um momento de autoavaliação e julgamento, onde o passado é absolvido para dar lugar a um novo nível de consciência.",
+      "description_upsd": "Autocrítica excessiva, dúvida e recusa em perdoar. Indica a dificuldade em superar erros do passado e a tendência a julgar a si mesmo e aos outros com excessiva dureza."
+    },
+    {
+      "name": "justice",
+      "description_straight": "Justiça, verdade, causa e efeito e equilíbrio. Representa a necessidade de imparcialidade, a busca pela verdade e a compreensão de que todas as ações têm consequências.",
+      "description_upsd": "Injustiça, desequilíbrio, mentiras e consequências negativas. Pode indicar uma situação injusta, a falta de responsabilidade pelas próprias ações ou a descoberta de uma verdade dolorosa."
+    },
+    {
+      "name": "kingofcups",
+      "description_straight": "Maturidade emocional, compaixão, controle e diplomacia. Representa uma pessoa que tem total domínio sobre suas emoções, agindo com calma, sabedoria e compaixão.",
+      "description_upsd": "Instabilidade emocional, manipulação ou frieza. Pode indicar uma pessoa que usa as emoções para manipular os outros ou que reprime seus sentimentos, tornando-se fria e distante."
+    },
+    {
+      "name": "kingofpentacles",
+      "description_straight": "Abundância, segurança financeira, sucesso e generosidade. Representa uma pessoa que alcançou o sucesso material através do trabalho duro e da disciplina, e que agora desfruta de estabilidade e compartilha sua riqueza.",
+      "description_upsd": "Ganância, materialismo excessivo ou má gestão financeira. Pode indicar uma pessoa obcecada por dinheiro e status, ou que está tomando decisões financeiras arriscadas e imprudentes."
+    },
+    {
+      "name": "kingofswords",
+      "description_straight": "Autoridade intelectual, clareza, verdade e poder. Representa uma pessoa que usa a lógica, a razão e a verdade para liderar e tomar decisões. É um símbolo de poder intelectual e moral.",
+      "description_upsd": "Abuso de poder, autoritarismo e falta de compaixão. Pode indicar uma pessoa que usa sua inteligência e autoridade para intimidar e controlar os outros de forma tirânica."
+    },
+    {
+      "name": "kingofwands",
+      "description_straight": "Liderança carismática, visão, paixão e empreendedorismo. Representa uma pessoa visionária e inspiradora, que lidera com entusiasmo e coragem para transformar ideias em realidade.",
+      "description_upsd": "Impulsividade, falta de liderança ou autoritarismo. Pode indicar um líder que age de forma imprudente e impulsiva, ou que se torna tirânico e impaciente com os outros."
+    },
+    {
+      "name": "knightofcups",
+      "description_straight": "Romance, charme, idealismo e convites. Representa a chegada de uma mensagem ou convite de natureza romântica ou criativa. É o cavaleiro que segue o coração.",
+      "description_upsd": "Falsas promessas, desilusão e instabilidade emocional. Pode indicar uma pessoa que é charmosa, mas não confiável, ou um período de idealismo irrealista que leva à decepção."
+    },
+    {
+      "name": "knightofpentacles",
+      "description_straight": "Trabalho duro, responsabilidade, rotina e lealdade. Representa uma abordagem metódica e prática para alcançar objetivos. É o cavaleiro que trabalha de forma consistente e confiável.",
+      "description_upsd": "Estagnação, tédio, preguiça e falta de progresso. Pode indicar uma rotina monótona que impede o crescimento ou a falta de esforço para concluir as tarefas necessárias."
+    },
+    {
+      "name": "knightofswords",
+      "description_straight": "Ação rápida, ambição, determinação e foco. Representa uma energia assertiva e direta, a busca por um objetivo com grande velocidade e determinação mental.",
+      "description_upsd": "Impulsividade, imprudência e agressividade. Pode indicar uma ação precipitada, sem planejamento, que pode levar a erros e conflitos desnecessários."
+    },
+    {
+      "name": "knightofwands",
+      "description_straight": "Energia, paixão, aventura e impulsividade. Representa a busca por novas experiências com grande entusiasmo e energia. É o cavaleiro da ação e da aventura.",
+      "description_upsd": "Atrasos, frustração e perda de direção. Pode indicar uma energia dispersa, falta de foco ou a sensação de que os planos de aventura e ação estão sendo bloqueados."
+    },
+    {
+      "name": "nineofcups",
+      "description_straight": "Satisfação, realização de desejos, felicidade e contentamento. Conhecida como a 'carta dos desejos', representa um período de grande satisfação emocional e a realização de seus sonhos.",
+      "description_upsd": "Desejos não realizados, insatisfação e materialismo. Pode indicar que o que você pensava que queria não trouxe a felicidade esperada ou um foco excessivo em prazeres superficiais."
+    },
+    {
+      "name": "nineofpentacles",
+      "description_straight": "Independência financeira, luxo, autossuficiência e sucesso merecido. Representa o desfrute dos frutos do próprio trabalho, a independência e o conforto material alcançados com esforço.",
+      "description_upsd": "Dependência financeira, excesso de trabalho ou perdas materiais. Pode indicar a falta de independência ou um foco tão grande no trabalho que a vida pessoal é negligenciada."
+    },
+    {
+      "name": "nineofswords",
+      "description_straight": "Ansiedade, preocupação, medo e pesadelos. Representa a angústia mental, a preocupação excessiva e os medos que muitas vezes são piores na nossa mente do que na realidade.",
+      "description_upsd": "Libertação do medo, superação da ansiedade e busca por ajuda. Indica a capacidade de enfrentar os medos, questionar os pensamentos negativos e encontrar uma saída para a angústia."
+    },
+    {
+      "name": "nineofwands",
+      "description_straight": "Resiliência, perseverança, coragem e defesa. Representa a força interior para continuar lutando apesar das dificuldades e dos ferimentos. É a última batalha antes da vitória.",
+      "description_upsd": "Exaustão, teimosia e recusa em desistir. Pode indicar que é hora de abandonar uma luta perdida ou que a teimosia está impedindo de ver outras soluções."
+    },
+    {
+      "name": "pageofcups",
+      "description_straight": "Criatividade, intuição, mensagens emocionais e curiosidade. Representa o surgimento de novas ideias criativas, o despertar da intuição ou a chegada de uma mensagem de natureza emocional.",
+      "description_upsd": "Imaturidade emocional, bloqueio criativo ou insegurança. Pode indicar dificuldade em lidar com as emoções ou uma fase de dúvida em relação à própria criatividade."
+    },
+    {
+      "name": "pageofpentacles",
+      "description_straight": "Novas oportunidades de aprendizado, manifestação e foco. Representa o início de um novo estudo ou projeto prático, com foco e dedicação para transformar ideias em realidade.",
+      "description_upsd": "Falta de planejamento, procrastinação ou oportunidades perdidas. Pode indicar a falta de foco e disciplina para seguir com os planos e aproveitar as oportunidades."
+    },
+    {
+      "name": "pageofswords",
+      "description_straight": "Curiosidade, novas ideias, comunicação e sede de conhecimento. Representa uma mente ágil e curiosa, sempre em busca de novas informações e pronta para comunicar suas ideias.",
+      "description_upsd": "Fofoca, comunicação agressiva ou falta de planejamento. Pode indicar o uso da comunicação de forma prejudicial ou a tendência a falar sem pensar nas consequências."
+    },
+    {
+      "name": "pageofwands",
+      "description_straight": "Entusiasmo, exploração, liberdade e novas ideias. Representa a energia jovem e entusiasmada para explorar novas possibilidades e se aventurar em novos territórios.",
+      "description_upsd": "Falta de direção, indecisão ou projetos inacabados. Pode indicar uma energia dispersa que começa muitas coisas, mas não termina nenhuma, por falta de foco e comprometimento."
+    },
+    {
+      "name": "queenofcups",
+      "description_straight": "Compaixão, intuição, cuidado e maturidade emocional. Representa uma pessoa intuitiva e carinhosa, que oferece apoio emocional e age com base na sua sabedoria interior.",
+      "description_upsd": "Dependência emocional, sensibilidade excessiva ou manipulação. Pode indicar uma pessoa que se torna vítima de suas próprias emoções ou que as usa para controlar os outros."
+    },
+    {
+      "name": "queenofpentacles",
+      "description_straight": "Praticidade, generosidade, segurança e cuidado com o lar. Representa uma pessoa prática e acolhedora, que sabe como criar um ambiente seguro e confortável e administrar bem os recursos.",
+      "description_upsd": "Desorganização, materialismo ou negligência. Pode indicar uma falta de cuidado com o lar e as finanças, ou um foco excessivo nos bens materiais em detrimento do bem-estar."
+    },
+    {
+      "name": "queenofswords",
+      "description_straight": "Inteligência, independência, clareza e verdade. Representa uma pessoa que valoriza a verdade acima de tudo, com uma mente afiada e a capacidade de ver através das ilusões.",
+      "description_upsd": "Frieza, amargura e crítica excessiva. Pode indicar uma pessoa que se tornou cínica e amarga devido a experiências passadas, usando sua inteligência para criticar e ferir."
+    },
+    {
+      "name": "queenofwands",
+      "description_straight": "Confiança, carisma, independência e paixão. Representa uma pessoa vibrante e cheia de energia, que é ao mesmo tempo sociável, criativa e autoconfiante.",
+      "description_upsd": "Inveja, ciúmes ou falta de confiança. Pode indicar uma pessoa que se sente insegura e com inveja dos outros, ou que perdeu sua paixão e entusiasmo pela vida."
+    },
+    {
+      "name": "sevenofcups",
+      "description_straight": "Muitas opções, ilusões, fantasia e necessidade de escolha. Representa um momento em que várias oportunidades se apresentam, mas é preciso discernimento para separar a fantasia da realidade.",
+      "description_upsd": "Clareza, decisão e foco. Indica o fim de um período de confusão, a capacidade de ver as coisas como elas realmente são e de tomar uma decisão clara e focada."
+    },
+    {
+      "name": "sevenofpentacles",
+      "description_straight": "Paciência, avaliação, investimento e espera por resultados. Representa um momento de pausa para avaliar o progresso de um projeto ou investimento e decidir os próximos passos.",
+      "description_upsd": "Impaciência, frustração com a falta de resultados ou maus investimentos. Pode indicar a desistência de um projeto por falta de resultados rápidos ou a percepção de que o esforço não valeu a pena."
+    },
+    {
+      "name": "sevenofswords",
+      "description_straight": "Engano, traição, estratégia e furtividade. Pode representar a necessidade de agir com discrição e estratégia, mas também pode alertar para a desonestidade, seja sua ou de outra pessoa.",
+      "description_upsd": "Confissão, superação do engano e aceitação da verdade. Indica o momento de revelar a verdade, de se desculpar por ações desonestas ou de confrontar a desonestidade de outra pessoa."
+    },
+    {
+      "name": "sevenofwands",
+      "description_straight": "Desafio, competição, defesa e coragem. Representa a necessidade de defender suas crenças e sua posição contra a oposição. É um teste de coragem e convicção.",
+      "description_upsd": "Sentir-se sobrecarregado, desistir ou ceder à pressão. Pode indicar a sensação de que a luta é esmagadora e a tentação de desistir de seus princípios."
+    },
+    {
+      "name": "sixofcups",
+      "description_straight": "Nostalgia, memórias do passado, inocência e reencontros. Representa a alegria de reviver boas memórias, a inocência da infância ou o reencontro com pessoas do passado.",
+      "description_upsd": "Apego ao passado, dificuldade em seguir em frente. Indica que as memórias do passado estão impedindo o progresso no presente e a criação de um futuro melhor."
+    },
+    {
+      "name": "sixofpentacles",
+      "description_straight": "Generosidade, caridade, equilíbrio e compartilhamento de riqueza. Representa o ato de dar e receber, a importância do equilíbrio financeiro e o apoio à comunidade.",
+      "description_upsd": "Ganância, dívidas ou generosidade com segundas intenções. Pode indicar um desequilíbrio, onde uma pessoa só quer receber, ou a oferta de ajuda com a intenção de controlar o outro."
+    },
+    {
+      "name": "sixofswords",
+      "description_straight": "Transição, seguir em frente, alívio e jornada. Representa a passagem de uma situação difícil para um futuro mais calmo e promissor, mesmo que com um sentimento de tristeza pela perda.",
+      "description_upsd": "Dificuldade em seguir em frente, bagagem emocional e estagnação. Indica a resistência em deixar uma situação dolorosa para trás, carregando um peso emocional que impede o progresso."
+    },
+    {
+      "name": "sixofwands",
+      "description_straight": "Vitória, sucesso, reconhecimento público e autoconfiança. Representa a celebração de uma conquista importante e o reconhecimento público pelo seu esforço e sucesso.",
+      "description_upsd": "Falta de reconhecimento, arrogância ou vitória vazia. Pode indicar que o sucesso não trouxe a satisfação esperada ou que a arrogância está afastando as pessoas."
+    },
+    {
+      "name": "temperance",
+      "description_straight": "Equilíbrio, moderação, paciência e harmonia. Representa a necessidade de encontrar o equilíbrio entre os diferentes aspectos da vida e de agir com paciência e moderação para alcançar a harmonia.",
+      "description_upsd": "Desequilíbrio, excesso e impaciência. Indica uma falta de moderação que leva a excessos e a um desequilíbrio prejudicial na vida."
+    },
+    {
+      "name": "tenofcups",
+      "description_straight": "Felicidade, harmonia familiar, realização emocional e contentamento. Representa o ápice da felicidade emocional, a harmonia nos relacionamentos e a realização de um sonho de vida familiar.",
+      "description_upsd": "Relacionamentos desfeitos, falta de harmonia e insatisfação. Indica que a imagem de felicidade familiar está quebrada ou que os relacionamentos estão passando por um período de conflito."
+    },
+    {
+      "name": "tenofpentacles",
+      "description_straight": "Riqueza, legado, família e estabilidade a longo prazo. Representa o sucesso material que é compartilhado com a família e que cria um legado duradouro para as futuras gerações.",
+      "description_upsd": "Perda financeira, disputas familiares por herança ou instabilidade. Pode indicar problemas financeiros que afetam a família ou conflitos relacionados a dinheiro e bens."
+    },
+    {
+      "name": "tenofswords",
+      "description_straight": "Fim doloroso, traição, derrota e crise. Representa o ponto mais baixo, o fim inevitável e doloroso de uma situação. No entanto, também indica que o pior já passou e a recuperação pode começar.",
+      "description_upsd": "Recuperação, superação da dor e libertação. Indica a capacidade de se reerguer após uma grande perda, de aprender com a dor e de seguir em frente para um novo começo."
+    },
+    {
+      "name": "tenofwands",
+      "description_straight": "Fardo, responsabilidade excessiva, estresse e sobrecarga. Representa o peso de carregar muitas responsabilidades sozinho, levando à exaustão e ao estresse.",
+      "description_upsd": "Libertação de fardos, delegação e alívio. Indica a capacidade de pedir ajuda, de delegar tarefas e de se livrar de responsabilidades que não são suas, encontrando alívio."
+    },
+    {
+      "name": "thechariot",
+      "description_straight": "Vontade, determinação, autocontrole e vitória. Representa o uso da força de vontade e da disciplina para superar obstáculos e alcançar o sucesso, mantendo o controle sobre forças opostas.",
+      "description_upsd": "Falta de controle, agressividade e falta de direção. Indica a perda de controle sobre uma situação, a ação impulsiva e a falta de um plano claro para alcançar os objetivos."
+    },
+    {
+      "name": "thedevil",
+      "description_straight": "Vícios, apego, materialismo e tentação. Representa as correntes que nos prendem, sejam elas vícios, maus hábitos ou crenças limitantes. Alerta para a tentação e a busca por prazeres superficiais.",
+      "description_upsd": "Libertação, quebra de correntes e consciência. Indica o momento de reconhecer os próprios apegos e vícios e de encontrar a força interior para se libertar deles."
+    },
+    {
+      "name": "theemperor",
+      "description_straight": "Autoridade, estrutura, estabilidade e liderança. Representa o poder, a disciplina e a capacidade de criar ordem e estrutura. É a figura do pai, do líder que protege e governa com sabedoria.",
+      "description_upsd": "Abuso de poder, autoritarismo, rigidez e controle excessivo. Indica uma liderança tirânica, a falta de flexibilidade e a imposição da vontade sobre os outros."
+    },
+    {
+      "name": "theempress",
+      "description_straight": "Fertilidade, feminilidade, abundância e criatividade. Representa a energia da mãe natureza, a criação, a nutrição e a beleza. É um símbolo de abundância em todos os sentidos.",
+      "description_upsd": "Bloqueio criativo, dependência e negligência. Pode indicar uma dificuldade em expressar a criatividade, a dependência excessiva dos outros ou a falta de cuidado consigo mesmo."
+    },
+    {
+      "name": "thefool",
+      "description_straight": "Início de uma jornada, inocência, espontaneidade e fé no desconhecido. Representa o potencial ilimitado, a coragem de dar o primeiro passo em uma nova aventura, mesmo sem saber o que vem pela frente.",
+      "description_upsd": "Imprudência, ingenuidade e risco desnecessário. Indica a falta de planejamento e a tendência a agir de forma tola e irresponsável, ignorando os perigos."
+    },
+    {
+      "name": "thehangedman",
+      "description_straight": "Sacrifício, nova perspectiva, pausa e rendição. Representa a necessidade de abrir mão de algo para obter uma nova visão sobre uma situação. É um momento de pausa e reavaliação.",
+      "description_upsd": "Sacrifício inútil, teimosia e recusa em mudar. Indica a dificuldade em aceitar uma nova perspectiva e a tendência a se manter preso em uma situação sem saída."
+    },
+    {
+      "name": "thehermit",
+      "description_straight": "Introspecção, busca por sabedoria, solidão e orientação interior. Representa um período de afastamento do mundo exterior para buscar respostas e sabedoria dentro de si mesmo.",
+      "description_upsd": "Isolamento, solidão e recusa em buscar ajuda. Indica um afastamento excessivo que leva ao isolamento e à dificuldade em se conectar com os outros e aceitar conselhos."
+    },
+    {
+      "name": "thehierophant",
+      "description_straight": "Tradição, conformidade, instituições e ensinamentos. Representa a busca por conhecimento através de instituições e tradições estabelecidas. É o mestre que transmite o conhecimento convencional.",
+      "description_upsd": "Rebeldia, quebra de tradições e pensamento não convencional. Indica a necessidade de questionar as regras e tradições estabelecidas e de encontrar o próprio caminho espiritual."
+    },
+    {
+      "name": "thehighpriestess",
+      "description_straight": "Intuição, mistério, subconsciente e sabedoria oculta. Representa o conhecimento que não pode ser alcançado pela lógica, mas sim pela intuição e pela conexão com o subconsciente.",
+      "description_upsd": "Segredos revelados, falta de intuição e superficialidade. Pode indicar a revelação de segredos guardados ou a dificuldade em ouvir a própria voz interior."
+    },
+    {
+      "name": "thelovers",
+      "description_straight": "Amor, união, parceria e escolhas. Representa a harmonia nos relacionamentos, a união de opostos e a necessidade de tomar uma decisão importante baseada nos próprios valores.",
+      "description_upsd": "Conflito, desarmonia e escolhas erradas. Indica problemas nos relacionamentos, a falta de alinhamento de valores e as consequências de uma decisão mal pensada."
+    },
+    {
+      "name": "themagician",
+      "description_straight": "Poder de manifestação, vontade, habilidade e recursos. Representa a capacidade de usar todas as ferramentas e recursos disponíveis para transformar ideias em realidade. É o poder da criação.",
+      "description_upsd": "Manipulação, engano e falta de habilidade. Indica o uso do poder para manipular os outros ou a falta de habilidade para realizar os próprios projetos."
+    },
+    {
+      "name": "themoon",
+      "description_straight": "Ilusão, medo, ansiedade e intuição. Representa o mundo dos sonhos, do subconsciente e dos medos ocultos. É um chamado para confiar na intuição para navegar em tempos de incerteza.",
+      "description_upsd": "Clareza, superação do medo e verdade revelada. Indica o fim de um período de confusão e a capacidade de ver através das ilusões, enfrentando os medos com coragem."
+    },
+    {
+      "name": "thestar",
+      "description_straight": "Esperança, inspiração, fé e renovação. Representa a luz no fim do túnel, a renovação da esperança e da fé no futuro após um período de dificuldades.",
+      "description_upsd": "Desespero, falta de fé e desânimo. Indica a perda de esperança e a dificuldade em acreditar em um futuro melhor, sentindo-se desconectado da inspiração."
+    },
+    {
+      "name": "thestrength",
+      "description_straight": "Força interior, coragem, compaixão e autocontrole. Representa a verdadeira força, que não vem da dominação, mas sim da coragem, da paciência e da compaixão para domar os instintos.",
+      "description_upsd": "Fraqueza, falta de autocontrole e insegurança. Indica a dificuldade em controlar os próprios impulsos e a sensação de insegurança e falta de confiança em si mesmo."
+    },
+    {
+      "name": "thesun",
+      "description_straight": "Alegria, sucesso, vitalidade e clareza. Representa a felicidade, a clareza mental e o sucesso em todas as áreas da vida. É a carta mais positiva do baralho, irradiando energia e otimismo.",
+      "description_upsd": "Falta de entusiasmo, pessimismo e sucesso adiado. Pode indicar uma visão negativa da vida que impede de ver as coisas boas ou um sucesso que parece estar sempre fora de alcance."
+    },
+    {
+      "name": "thetower",
+      "description_straight": "Mudança súbita, caos, revelação e destruição. Representa uma mudança abrupta e inesperada que destrói estruturas antigas para que algo novo e mais verdadeiro possa ser construído.",
+      "description_upsd": "Resistência à mudança, medo da destruição e adiamento do inevitável. Indica a tentativa de evitar uma mudança necessária, o que pode prolongar o sofrimento."
+    },
+    {
+      "name": "theworld",
+      "description_straight": "Conclusão, realização, integração e plenitude. Representa o fim bem-sucedido de um ciclo, a sensação de realização e a integração de todas as partes de si mesmo. É a conclusão de uma jornada.",
+      "description_upsd": "Falta de conclusão, projetos inacabados e estagnação. Indica a dificuldade em finalizar um ciclo e a sensação de que algo está faltando para alcançar a plenitude."
+    },
+    {
+      "name": "threeofcups",
+      "description_straight": "Celebração, amizade, comunidade e colaboração. Representa a alegria de compartilhar momentos felizes com amigos e a comunidade, a celebração de conquistas em conjunto.",
+      "description_upsd": "Fofoca, excessos e isolamento. Pode indicar um ambiente de falsas amizades e fofocas, ou a celebração excessiva que leva a consequências negativas."
+    },
+    {
+      "name": "threeofpentacles",
+      "description_straight": "Trabalho em equipe, colaboração, planejamento e habilidade. Representa o sucesso alcançado através da colaboração e do trabalho em equipe, onde cada um contribui com sua habilidade.",
+      "description_upsd": "Falta de colaboração, conflitos no trabalho e má qualidade. Indica problemas de comunicação e cooperação em uma equipe, o que prejudica a qualidade do trabalho final."
+    },
+    {
+      "name": "threeofswords",
+      "description_straight": "Coração partido, dor emocional, tristeza e verdade dolorosa. Representa uma dor aguda e inevitável, muitas vezes causada pela revelação de uma verdade dolorosa. É um sofrimento que leva à cura.",
+      "description_upsd": "Superação da dor, perdão e cura. Indica o processo de cura após uma grande dor emocional, a capacidade de perdoar e de seguir em frente com o coração mais forte."
+    },
+    {
+      "name": "threeofwands",
+      "description_straight": "Expansão, planejamento futuro, visão e progresso. Representa o momento de olhar para o futuro com otimismo, de planejar os próximos passos e de ver os primeiros sinais de que os planos estão dando certo.",
+      "description_upsd": "Atrasos, falta de planejamento e frustração. Indica que os planos de expansão estão sendo adiados ou que a falta de visão e planejamento está impedindo o progresso."
+    },
+    {
+      "name": "twoofcups",
+      "description_straight": "Parceria, amor, união e conexão mútua. Representa a união harmoniosa de duas pessoas, seja em um relacionamento amoroso, uma amizade profunda ou uma parceria de negócios bem-sucedida.",
+      "description_upsd": "Desarmonia, separação e desconfiança. Indica problemas de comunicação e falta de conexão em um relacionamento, o que pode levar a conflitos e desconfiança."
+    },
+    {
+      "name": "twoofpentacles",
+      "description_straight": "Equilíbrio, multitarefa, flexibilidade e gerenciamento. Representa a necessidade de equilibrar diferentes áreas da vida, como trabalho e família, e de ser flexível para se adaptar às mudanças.",
+      "description_upsd": "Desequilíbrio, desorganização e sobrecarga. Indica a dificuldade em gerenciar as múltiplas demandas da vida, o que leva ao estresse e à sensação de estar sobrecarregado."
+    },
+    {
+      "name": "twoofswords",
+      "description_straight": "Indecisão, impasse, trégua e negação. Representa um momento de impasse, onde uma decisão difícil precisa ser tomada, mas a pessoa se recusa a ver a verdade e a fazer uma escolha.",
+      "description_upsd": "Decisão, clareza e resolução. Indica o fim de um período de indecisão, a capacidade de enfrentar a verdade e de tomar uma decisão, mesmo que seja difícil."
+    },
+    {
+      "name": "twoofwands",
+      "description_straight": "Planejamento futuro, decisão e descoberta. Representa o momento de planejar o futuro, de tomar decisões importantes sobre o caminho a seguir e de explorar novas possibilidades.",
+      "description_upsd": "Falta de planejamento, medo do desconhecido e indecisão. Indica a dificuldade em planejar o futuro e o medo de sair da zona de conforto para explorar novas oportunidades."
+    },
+    {
+      "name": "wheeloffortune",
+      "description_straight": "Mudança de sorte, destino, carma e ponto de virada. Representa a natureza cíclica da vida, as mudanças inesperadas e a influência do destino. É um lembrete de que a vida está sempre em movimento.",
+      "description_upsd": "Má sorte, resistência à mudança e eventos negativos. Indica um período de azar ou a recusa em aceitar as mudanças da vida, o que pode levar a consequências negativas."
+    }
+  ]
+}
